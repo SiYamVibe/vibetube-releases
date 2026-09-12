@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5.6",
+  "versionCode": 16,
+  "versionName": "1.5.7",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• ভিডিও প্লেয়ার অন-স্ক্রিন ট্যাপ ও অপশন ফিক্স (ট্যাপ করলে সাথে সাথে কন্ট্রোলস আসবে/যাবে)\n• ভিডিও চ্যাপ্টা হওয়া সম্পূর্ণ বন্ধ (Exact Aspect Ratio BoxWithConstraints & Rotation Detection)\n• স্মুথ সিকবার ড্র্যাগিং ও ইন্টেলিজেন্ট জেসচার হ্যান্ডলিং",
+  "changelog": "• ভিডিও প্লেয়ার সিঙ্গেল ট্যাপ অপশন ও কন্ট্রোল ফিক্স (স্ক্রিনে ট্যাপ করলেই সাথে সাথে কন্ট্রোলস দৃশ্যমান হবে)\n• প্লে শুরু হওয়ার সাথে সাথে ডিফল্টভাবে কন্ট্রোলস দৃশ্যমান থাকবে\n• স্পর্শ সংবেদনশীলতা বৃদ্ধি ও পারফেক্ট টগল",
   "forceUpdate": false
 }
