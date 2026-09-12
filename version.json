@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
+  "versionCode": 9,
+  "versionName": "1.5.0",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• ফোনের লোকাল ভিডিও ও অডিও ফোল্ডার অনুযায়ী ব্রাউজ ও প্লেব্যাক সাপোর্ট\n• 'Open with VibeTube' সিস্টেম অপশন যুক্ত (ফাইল ম্যানেজার থেকে সরাসরি প্লে)\n• আল্ট্রা-ফাস্ট MediaStore ক্যাশিং ও স্মুথ পারফরম্যান্স",
+  "changelog": "• একদম নতুন প্রিমিয়াম OLED Cyberpunk Glow UI\n• ফ্লুয়িড ফ্লোটিং বটম আইল্যান্ড ডক নেভিগেশন\n• ফিউচারিস্টিক ক্যাপসুল ইনপুট বার ও কুইক পেস্ট বাটন\n• সিল্কি স্প্রিং বাউন্স মোশন (১২০Hz আল্ট্রা-স্মুথ)\n• সাইবার ডাবল-বেজেল গ্লাস কার্ড ডিজাইন",
   "forceUpdate": false
 }
