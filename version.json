@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5.3",
+  "versionCode": 13,
+  "versionName": "1.5.4",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• অডিও প্লেয়ারে নেক্সট/প্রিভিয়াস ট্র্যাক চেঞ্জ ও অটো প্লেলিস্ট প্লেব্যাক\n• ভিডিও প্লেয়ারে ১৬:৯ সিনেমা মোড, স্ক্রিন সোয়াইপ ব্রাইটনেস/ভলিউম (MX Player স্টাইল)\n• Downloads ট্যাবে Favorites ও নতুন Playlists তৈরির ফুল সাপোর্ট\n• ডাবল-ট্যাপ ১০s সিক ও সিনেমা রোটেট ফুলস্ক্রিন",
+  "changelog": "• ফুল এজ-টু-এজ ডিসপ্লে অ্যাডজাস্টমেন্ট (নচ ও নেভিগেশন বারে কোনো কাটাকুটি নেই)\n• ভিডিও অটো-ফিট রেশিও ফিক্স (কোনো ভিডিও চ্যাপ্টা বা স্ট্রেচ হবে না)\n• আল্ট্রা-স্মুথ স্লাইড-আপ ফুলস্ক্রিন প্লেয়ার ওভারলে",
   "forceUpdate": false
 }
