@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.6.4",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.4.apk",
-  "changelog": "• ডাউনলোড Pause, Resume এবং Cancel বাটন যুক্ত করা হয়েছে (অ্যাপ ও নোটিফিকেশন উভয় জায়গায়)\n• সব ভিডিও ও অডিও ফাইলের জন্য আসল থাম্বনেইল ও অ্যালবাম আর্ট প্রদর্শন\n• প্লেয়ার এবং ডাউনলোড স্টেবিলিটি ইমপ্রুভমেন্ট",
+  "versionCode": 24,
+  "versionName": "1.6.5",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.5.apk",
+  "changelog": "• নোটিফিকেশন মিডিয়া থাম্বনেইল ফিক্স (অ্যাপের থাম্বনেইল হুবহু নোটিফিকেশন ও লকস্ক্রিনে প্রদর্শন)\n• ডাউনলোড Pause/Resume/Cancel এবং স্টেবিলিটি ইমপ্রুভমেন্ট",
   "forceUpdate": false
 }
