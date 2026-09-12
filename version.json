@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.5.4",
+  "versionCode": 14,
+  "versionName": "1.5.5",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• ফুল এজ-টু-এজ ডিসপ্লে অ্যাডজাস্টমেন্ট (নচ ও নেভিগেশন বারে কোনো কাটাকুটি নেই)\n• ভিডিও অটো-ফিট রেশিও ফিক্স (কোনো ভিডিও চ্যাপ্টা বা স্ট্রেচ হবে না)\n• আল্ট্রা-স্মুথ স্লাইড-আপ ফুলস্ক্রিন প্লেয়ার ওভারলে",
+  "changelog": "• ভিডিও প্লেয়ার প্রো আপগ্রেড (MX Player স্টাইল)\n• স্ক্রিন সোয়াইপ সিক (Swipe Seek Preview + Live Time Display)\n• স্ক্রিন ব্রাইটনেস ও ভলিউম ড্র্যাগ জেসচার\n• ভিডিও ফিট মোড টগল (Fit, Zoom/Fill, 100% Original)\n• স্ক্রিন লক ফিচার ও ট্রু সিনেমা ফুলস্ক্রিন অটো-ল্যান্ডস্কেপ",
   "forceUpdate": false
 }
