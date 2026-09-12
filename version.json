@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.1",
+  "versionCode": 6,
+  "versionName": "1.3.2",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• ফিক্সড ব্যাকগ্রাউন্ড মিডিয়া নোটিফিকেশন\n• কুইক সেটিংস প্লেয়ার ও সিকবার ফুল সাপোর্ট\n• থার্ম্বনেইলে VibeTube অ্যাপ আইকন ব্যাজ\n• ব্যাকগ্রাউন্ড অডিও প্লেব্যাক ও পারফরম্যান্স অপ্টিমাইজেশন",
+  "changelog": "• ফিক্সড নোটিফিকেশন প্লেব্যাক ও কুইক সেটিংস কন্ট্রোল\n• ফিক্সড মিডিয়া সার্ভিস ব্যাকগ্রাউন্ড রেইস-কন্ডিশন\n• ইন-অ্যাপ আপডেট ডায়লগ ফিক্সড",
   "forceUpdate": false
 }
