@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.6.5",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.5.apk",
-  "changelog": "• নোটিফিকেশন মিডিয়া থাম্বনেইল ফিক্স (অ্যাপের থাম্বনেইল হুবহু নোটিফিকেশন ও লকস্ক্রিনে প্রদর্শন)\n• ডাউনলোড Pause/Resume/Cancel এবং স্টেবিলিটি ইমপ্রুভমেন্ট",
+  "versionCode": 25,
+  "versionName": "1.6.6",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.6.apk",
+  "changelog": "• প্লেলিস্ট ডিলিট করার সুবিধা যুক্ত করা হয়েছে\n• প্লেলিস্ট থেকে যেকোনো গান/ভিডিও রিমুভ করার অপশন যুক্ত করা হয়েছে\n• ফোনের নিজস্ব অডিও এবং ভিডিও সরাসরি প্লেলিস্টে যোগ করার সুবিধা যুক্ত করা হয়েছে",
   "forceUpdate": false
 }
