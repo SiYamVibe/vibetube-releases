@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.6.3",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.3.apk",
-  "changelog": "• ভিডিও ও অডিও অটো-প্লে/Next-Prev পৃথকীকরণ (ভিডিওতে শুধু ভিডিও এবং অডিওতে শুধু অডিও চলবে)\n• স্মার্ট অডিও ফোকাস: ফেসবুক বা ইউটিউবে ভিডিও চালু হলে অটো-পজ এবং বন্ধ হলে অটো-রিজ্যুম\n• নোটিফিকেশন ও প্লেয়ারে মিডিয়ার আসল থাম্বনেইল ও অ্যালবাম আর্ট প্রদর্শন",
+  "versionCode": 23,
+  "versionName": "1.6.4",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.4.apk",
+  "changelog": "• ডাউনলোড Pause, Resume এবং Cancel বাটন যুক্ত করা হয়েছে (অ্যাপ ও নোটিফিকেশন উভয় জায়গায়)\n• সব ভিডিও ও অডিও ফাইলের জন্য আসল থাম্বনেইল ও অ্যালবাম আর্ট প্রদর্শন\n• প্লেয়ার এবং ডাউনলোড স্টেবিলিটি ইমপ্রুভমেন্ট",
   "forceUpdate": false
 }
