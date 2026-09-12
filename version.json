@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.6.1",
+  "versionCode": 21,
+  "versionName": "1.6.2",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• চিকন মিনিমালিস্ট প্রিমিয়াম প্রোগ্রেস বার (3dp স্লিম ট্র্যাক ও নিখুঁত থাম্ব)\n• ভিডিও স্কিপ/ফরওয়ার্ড ল্যাগ সম্পূর্ণ নির্মূল (SEEK_CLOSEST_SYNC ইনস্ট্যান্ট প্লেব্যাক)\n• সুপার স্মুথ ও জিরো-ফ্রেমড্রপ সিকিং এক্সপেরিয়েন্স",
+  "changelog": "• ডাউনলোড কার্ডে ট্যাপ করলেই সরাসরি অ্যাপের নিজস্ব প্লেয়ারে প্লেব্যাক (কোনো এক্সটার্নাল 'Open with' সিস্টেম ডায়ালগ আসবে না)\n• আল্ট্রা-স্লিক চিকন প্রোগ্রেস বার ও জিরো-ল্যাগ স্কিপিং",
   "forceUpdate": false
 }
