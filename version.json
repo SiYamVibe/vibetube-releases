@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.5.1",
+  "versionCode": 11,
+  "versionName": "1.5.2",
   "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• একদম নতুন ক্লাসিক ও প্রিমিয়াম VibePlayer ডিজাইন\n• অডিও প্লেয়ারে অ্যালবাম আর্ট ও পালসিং কাইনেটিক ওয়েভফর্ম বার্স\n• ভিডিও প্লেয়ারে ৫ সেকেন্ড ডাবল-ট্যাপ সিক ও ৫s স্কিপ বাটন\n• রেসপনসিভ সাইবার সিনেমা ফ্রেম ও ফ্লুইড গ্লাস কন্ট্রোলস",
+  "changelog": "• হুবহু রেফারেন্স ডিজাইনের নতুন প্রিমিয়াম মিউজিক ও ভিডিও প্লেয়ার UI\n• Donut-thumb কাস্টম সিকবার ও পারফেক্ট স্পেসিং\n• 5-বাটন প্লেব্যাক ও বটম একশন কন্ট্রোলস\n• লুপ/রিপিট ও ইনস্ট্যান্ট স্পিড মেনু",
   "forceUpdate": false
 }
