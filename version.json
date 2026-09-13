@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.7.5",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.5.apk",
-  "changelog": "• ভিডিও কন্ট্রোলস সিঙ্গেল ট্যাপে ইনস্ট্যান্ট শো/হাইড\n• প্রগ্রেস বার ড্র্যাগ ও সিক নিখুঁত ফিক্সড (শুরুতে বা আগের জায়গায় ব্যাক করার বাউন্স ফিক্সড)\n• সেটিংস স্ক্রিন: ৫/১০ সেকেন্ড ডাবল ট্যাপ স্কিপ ও ব্যাকগ্রাউন্ড প্লে টগল\n• অনলাইন প্রিভিউ সরানো হয়েছে (থাম্বনেইল + ডাউনলোড)",
+  "versionCode": 32,
+  "versionName": "1.7.6",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.6.apk",
+  "changelog": "• স্লিম ও চিকন প্রগ্রেস বার (৩dp আল্ট্রা-স্লিম ট্র্যাক ও ১০dp থাম্ব)\n• স্মুথ ও নিখুঁত ভিডিও সিক ও ড্র্যাগ\n• সিঙ্গেল ট্যাপে ইনস্ট্যান্ট ভিডিও কন্ট্রোলস শো/হাইড",
   "forceUpdate": false
 }
