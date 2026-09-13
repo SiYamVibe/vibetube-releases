@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.6.6",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.6.6.apk",
-  "changelog": "• প্লেলিস্ট ডিলিট করার সুবিধা যুক্ত করা হয়েছে\n• প্লেলিস্ট থেকে যেকোনো গান/ভিডিও রিমুভ করার অপশন যুক্ত করা হয়েছে\n• ফোনের নিজস্ব অডিও এবং ভিডিও সরাসরি প্লেলিস্টে যোগ করার সুবিধা যুক্ত করা হয়েছে",
+  "versionCode": 27,
+  "versionName": "1.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.1.apk",
+  "changelog": "• সম্পূর্ণ নতুন Stitch Nocturne Fluid Glass ডিজাইন সিস্টেম\n• অপ্টিমাইজড মিডিয়া ডাউনলোডার ও ফ্লুইড গ্লাস প্লেয়ার\n• মসৃণ ইউআই মাইক্রো-ইন্টারঅ্যাকশন ও হাই-ফাই অডিও সাপোর্ট",
   "forceUpdate": false
 }
