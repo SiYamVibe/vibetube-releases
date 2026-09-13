@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.2.apk",
-  "changelog": "• পারফেক্ট ফ্লুয়িড বটম ন্যাভিগেশন বার (স্ক্রিনশট অনুযায়ী)\n• লাইব্রেরি স্ক্রিন ক্লিনআপ: অপ্রয়োজনীয় সাব-ট্যাব রিমুভ ও সরাসরি ডাউনলোডস/লোকাল মিডিয়া অ্যাক্সেস\n• পারফরম্যান্স ও রেসপনসিভনেস অপ্টিমাইজেশন",
+  "versionCode": 29,
+  "versionName": "1.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.3.apk",
+  "changelog": "• হোমপেজ ক্লিনআপ: অপ্রয়োজনীয় সার্ভিসেস গ্রিড রিমুভড\n• টপবার রিফাইনমেন্ট: ইঞ্জিন এক্টিভ ইন্ডিকেটর রিমুভ ও ক্লিন মিনিমাল ব্যালেন্সড হেডার\n• সুপার স্মুথ ও লাইটওয়েট পারফরম্যান্স",
   "forceUpdate": false
 }
