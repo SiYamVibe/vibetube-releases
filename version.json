@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.0.apk",
-  "changelog": "• শেয়ার শিট ও স্ট্রিমিং রেজল্যুশন ০ মিলিসেকেন্ডে ইনস্ট্যান্ট রেডি\n• টিকটক ফুল ফিক্স (শর্টলিংক ও নো-ওয়াটারমার্ক সিডিএন রিলায়েবিলিটি)\n• ফাস্ট DNS ক্যাশিং ও সকেট প্রি-ওয়ার্ম কানেকশন পুল\n• কোনো ডিলে বা এরর ছাড়া সুপারফাস্ট ডাউনলোড",
+  "versionCode": 37,
+  "versionName": "1.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.1.apk",
+  "changelog": "• সাইলেন্ট অপ্টিমিস্টিক প্রি-ফেচিং ডাউনলোড পাইপলাইন\n• ইনস্ট্যান্ট 'Share Now' ডিরেক্ট নেটিভ শেয়ারিং ফ্লো\n• ব্যাকড্রপ ও ডিসমিসে অটোমেটিক ক্লিনআপ ও ০ MB ক্যাশ ব্লোট\n• সুপারফাস্ট ও স্ট্যাবল মিডিয়া ইনজেশন",
   "forceUpdate": false
 }
