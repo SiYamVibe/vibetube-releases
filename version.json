@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.8.3",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.3.apk",
-  "changelog": "• এক্সটার্নাল শেয়ার ওভারলে আইসোলেশন ও ট্রান্সলুসেন্ট ভিউ\n• ডাউনলোড বা শেয়ারের পর তাৎক্ষণিক ভ্যানিশ\n• অ্যান্ড্রয়েড রিসেন্ট অ্যাপস (Recents) থেকে সম্পূর্ণ আইসোলেশন",
+  "versionCode": 40,
+  "versionName": "1.8.4",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.4.apk",
+  "changelog": "• YouTube Full HD (1080p) অপশন যুক্ত ও সঠিক ফাইল সাইজ প্রদর্শন\n• ভিডিও/রিলে অডিও মিসিং হওয়া স্থায়ীভাবে ফিক্সড\n• সেটিংস থেকে 'Share Now' বাটন অন/অফ এবং অডিও-ভিডিও যেকোনো ফরম্যাট শেয়ার সাপোর্ট\n• সম্পূর্ণ ক্যাশ অটো ক্লিন ও অপটিমাইজেশন",
   "forceUpdate": false
 }
