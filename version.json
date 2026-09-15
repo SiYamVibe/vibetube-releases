@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.8.2",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.2.apk",
-  "changelog": "• শেয়ার ওভারলে বটমশিটে সরাসরি 'Share Now' বাটন যুক্ত\n• কোয়ালিটি পিকার ও শেয়ার শিট দুটোতেই প্রি-ফেচ সাপোর্ট\n• ইন্সট্যান্ট ফাইল সেন্ড ও জিরো ক্যাশ লিক",
+  "versionCode": 39,
+  "versionName": "1.8.3",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.3.apk",
+  "changelog": "• এক্সটার্নাল শেয়ার ওভারলে আইসোলেশন ও ট্রান্সলুসেন্ট ভিউ\n• ডাউনলোড বা শেয়ারের পর তাৎক্ষণিক ভ্যানিশ\n• অ্যান্ড্রয়েড রিসেন্ট অ্যাপস (Recents) থেকে সম্পূর্ণ আইসোলেশন",
   "forceUpdate": false
 }
