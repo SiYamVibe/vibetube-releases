@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.8.6",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.6.apk",
-  "changelog": "• ভিডিও ডাউনলোডে অডিও মিসিং হওয়া স্থায়ীভাবে ফিক্সড (Strict AAC/H.264 Muxing)\n• Facebook, Instagram, YouTube, TikTok অডিও স্ট্রিম প্রটেকশন\n• MediaMuxer মনোটোনিক টাইমস্ট্যাম্প গার্ড ও পারফরম্যান্স অপটিমাইজেশন",
+  "versionCode": 43,
+  "versionName": "1.8.7",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.7.apk",
+  "changelog": "• Instagram Reels আলাদা অডিও ট্র্যাক (Clips/Music Asset) স্বয়ংক্রিয়ভাবে ভিডিওর সাথে মার্জ ফিক্সড\n• Instagram ক্যারোসেল এবং একক ভিডিও অডিও প্রটেকশন\n• 100% গ্যারান্টিড অডিও সিঙ্ক",
   "forceUpdate": false
 }
