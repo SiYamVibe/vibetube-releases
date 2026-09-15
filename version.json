@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.7.8",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.8.apk",
-  "changelog": "• টিকটক ডাউনলোড HTTP 403 ফিক্স (অটোমেটিক রেজিলিয়েন্ট হেডলিংক ফলব্যাক)\n• প্রিপিয়ারিং ডাউনলোড ডিলে সম্পূর্ণ দূর (০ মিলিসেকেন্ডে ইনস্ট্যান্ট ডাউনলোড)\n• সুপারফাস্ট স্পিড ও লো-এন্ড ফোনে মাখনের মতো পারফরম্যান্স",
+  "versionCode": 35,
+  "versionName": "1.7.9",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.7.9.apk",
+  "changelog": "• ব্যাকগ্রাউন্ডে ফাস্ট সকেট ও ডিএনএস প্রি-ওয়ার্মিং (<৩০ মিলিসেকেন্ডে ফাস্ট কানেক্ট)\n• প্রিপিয়ারিং ডাউনলোড সঠিক প্রগ্রেস ও ফার্স্ট-বাইট ইনস্ট্যান্ট ট্রানজিশন\n• কোনো ডিলে ছাড়া সুপারফাস্ট ডাউনলোড ও রিলায়েবল স্ট্যাবিলিটি",
   "forceUpdate": false
 }
