@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.8.4",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.4.apk",
-  "changelog": "• YouTube Full HD (1080p) অপশন যুক্ত ও সঠিক ফাইল সাইজ প্রদর্শন\n• ভিডিও/রিলে অডিও মিসিং হওয়া স্থায়ীভাবে ফিক্সড\n• সেটিংস থেকে 'Share Now' বাটন অন/অফ এবং অডিও-ভিডিও যেকোনো ফরম্যাট শেয়ার সাপোর্ট\n• সম্পূর্ণ ক্যাশ অটো ক্লিন ও অপটিমাইজেশন",
+  "versionCode": 41,
+  "versionName": "1.8.5",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.5.apk",
+  "changelog": "• ভিডিও ডাউনলোডে অডিও মিসিং হওয়া স্থায়ীভাবে ফিক্সড (Strict AAC/H.264 Muxing)\n• Facebook, Instagram, YouTube, TikTok অডিও স্ট্রিম প্রটেকশন\n• MediaMuxer মনোটোনিক টাইমস্ট্যাম্প গার্ড ও পারফরম্যান্স অপটিমাইজেশন",
   "forceUpdate": false
 }
