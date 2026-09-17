@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "1.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.2.apk",
-  "changelog": "• Instagram Reels এর অরিজিনাল অডিও এক্সট্র্যাকশন ইঞ্জিন সম্পূর্ণ ফিক্সড (macOS SSR মোড)\n• রিলসের ১০০% আসল AAC সাউন্ড সহ ফুল ভিডিও এবং সিঙ্গেল অডিও (M4A) ডাউনলোড নিশ্চিত\n• বিল্ট-ইন হার্ডওয়্যার মাক্সার ও ফলব্যাক পাইপলাইন ১০০% কার্যকর",
+  "versionCode": 49,
+  "versionName": "1.9.3",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.3.apk",
+  "changelog": "• Instagram Reels-এর intermittent/flaky অডিও সমস্যার পার্মানেন্ট সমাধান\n• MediaMuxer বাফার বাউন্ডিং ও স্যাম্পল ট্র্যাকিং ফিক্স (ভিডিও ও অডিও পারফেক্ট সিঙ্ক)\n• অডিও-লেস ফলব্যাক সম্পূর্ণ নিষিদ্ধ ও অটোমেটিক ডেমাক্স রিট্রাই যুক্ত\n• সিঙ্গেল অডিও (M4A) সরাসরি ক্লিন কন্টেইনারে কনভার্ট নিশ্চিত (১০০% সাউন্ড গ্যারান্টি)",
   "forceUpdate": false
 }
