@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.9.3",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.3.apk",
-  "changelog": "• Instagram Reels-এর intermittent/flaky অডিও সমস্যার পার্মানেন্ট সমাধান\n• MediaMuxer বাফার বাউন্ডিং ও স্যাম্পল ট্র্যাকিং ফিক্স (ভিডিও ও অডিও পারফেক্ট সিঙ্ক)\n• অডিও-লেস ফলব্যাক সম্পূর্ণ নিষিদ্ধ ও অটোমেটিক ডেমাক্স রিট্রাই যুক্ত\n• সিঙ্গেল অডিও (M4A) সরাসরি ক্লিন কন্টেইনারে কনভার্ট নিশ্চিত (১০০% সাউন্ড গ্যারান্টি)",
+  "versionCode": 50,
+  "versionName": "1.9.4",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.4.apk",
+  "changelog": "• ভিডিও ল্যাগ ও স্টাটারিংয়ের স্থায়ী সমাধান (লজলেস কন্টেইনার মার্জিং সিস্টেম)\n• অরিজিনাল ভিডিও স্ট্রিমের বি-ফ্রেম (B-frames) ১০০% অক্ষত ও স্মুথ ৬০fps প্লেব্যাক\n• ফুল অডিও ক্ল্যারিটি এবং পারফেক্ট অডিও-ভিডিও সিঙ্ক\n• দ্রুততম অন-ডিভাইস প্রসেসিং (~15ms) ও জিরো সিপিইউ থ্রটলিং",
   "forceUpdate": false
 }
