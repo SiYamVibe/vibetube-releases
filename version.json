@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.8.7",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.7.apk",
-  "changelog": "• Instagram Reels আলাদা অডিও ট্র্যাক (Clips/Music Asset) স্বয়ংক্রিয়ভাবে ভিডিওর সাথে মার্জ ফিক্সড\n• Instagram ক্যারোসেল এবং একক ভিডিও অডিও প্রটেকশন\n• 100% গ্যারান্টিড অডিও সিঙ্ক",
+  "versionCode": 44,
+  "versionName": "1.8.8",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.8.apk",
+  "changelog": "• Instagram/Facebook রিলসের DASH অডিও ট্র্যাক স্বয়ংক্রিয় রিকভারি\n• অন-ডিভাইস MediaCodec AAC ট্রান্সকোডার ফিক্স (রিলসে অডিও মিস হবে না)\n• সরাসরি সিঙ্গেল অডিও (Audio-Only) ক্লিয়ার সাউন্ড ট্র্যাক ডাউনলোড ফিক্স",
   "forceUpdate": false
 }
