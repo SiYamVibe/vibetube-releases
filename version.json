@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.4.apk",
-  "changelog": "• ভিডিও ল্যাগ ও স্টাটারিংয়ের স্থায়ী সমাধান (লজলেস কন্টেইনার মার্জিং সিস্টেম)\n• অরিজিনাল ভিডিও স্ট্রিমের বি-ফ্রেম (B-frames) ১০০% অক্ষত ও স্মুথ ৬০fps প্লেব্যাক\n• ফুল অডিও ক্ল্যারিটি এবং পারফেক্ট অডিও-ভিডিও সিঙ্ক\n• দ্রুততম অন-ডিভাইস প্রসেসিং (~15ms) ও জিরো সিপিইউ থ্রটলিং",
+  "versionCode": 51,
+  "versionName": "1.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.5.apk",
+  "changelog": "• প্লেব্যাক চলাকালীন অতিরিক্ত 'Playing media' স্ট্যাটাস নোটিফিকেশন রিমুভ করা হয়েছে\n• মিডিয়া পজ (Pause) করা অবস্থায় নোটিফিকেশনটি সোয়াইপ (Swipe) করে ডিসমিস করার সুবিধা যুক্ত করা হয়েছে\n• ক্লিন ও মিনিমাল একক মিডিয়া কন্ট্রোল নোটিফিকেশন",
   "forceUpdate": false
 }
