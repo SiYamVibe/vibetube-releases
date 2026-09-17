@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.8.8",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.8.apk",
-  "changelog": "• Instagram/Facebook রিলসের DASH অডিও ট্র্যাক স্বয়ংক্রিয় রিকভারি\n• অন-ডিভাইস MediaCodec AAC ট্রান্সকোডার ফিক্স (রিলসে অডিও মিস হবে না)\n• সরাসরি সিঙ্গেল অডিও (Audio-Only) ক্লিয়ার সাউন্ড ট্র্যাক ডাউনলোড ফিক্স",
+  "versionCode": 45,
+  "versionName": "1.8.9",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.8.9.apk",
+  "changelog": "• Instagram/Facebook রিলসের DASH অডিও ট্র্যাক Polaris GraphQL দিয়ে পার্মানেন্টলি ফিক্সড\n• সরাসরি আসল হাই-কোয়ালিটি সিঙ্গেল অডিও (Audio-Only) ডাউনলোড নিশ্চিত\n• রিলসে অডিও মিস হওয়া বা মিউট ভিডিও ডাউনলোডের সমস্যা সম্পূর্ণ সমাধান",
   "forceUpdate": false
 }
