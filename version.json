@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "1.9.10",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.10.apk",
-  "changelog": "• HTTP 503 এরর সম্পূর্ণভাবে ফিক্স করা হয়েছে\n• ক্লায়েন্ট রেজলভারে ফলব্যাক সিকিউরিটি যুক্ত হয়েছে\n• প্রতিটি কোয়ালিটি (1080p, 720p, 480p, 360p) মোবাইলে অন-ডিভাইস স্বয়ংক্রিয়ভাবে রেজলভ ও ডাউনলোড হবে",
+  "versionCode": 57,
+  "versionName": "1.9.11",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.11.apk",
+  "changelog": "• ১০০% পিওর ক্লায়েন্ট-সাইড আর্কিটেকচার (কোনো রিমোট সার্ভার ডিপেনডেন্সি নেই)\n• মোবাইল ও ওয়াইফাই থেকে সরাসরি স্বয়ংসম্পূর্ণ অন-ডিভাইস স্ট্রীম রেজলভ ও ডাউনলোড\n• জিরো সার্ভার এরর গ্যারান্টি",
   "forceUpdate": true
 }
