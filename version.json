@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "1.9.9",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.9.apk",
-  "changelog": "• ইউটিউব এবং মাল্টি-প্ল্যাটফর্ম ভিডিওর প্রতিটি রেজোলিউশনে (1080p, 720p, 480p, 360p) সঠিক সাইজ ও স্ট্রিম প্রদর্শন ফিক্স\n• একই সাইজ ও একই রেজোলিউশন ডুপ্লিকেট ডাউনলোড হওয়ার সমস্যা সমাধান\n• স্ন্যাপটিউব-গ্রেড পৃথক অ্যাডাপটিভ স্ট্রিম ও নিখুঁত মার্জিং",
+  "versionCode": 56,
+  "versionName": "1.9.10",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.10.apk",
+  "changelog": "• HTTP 503 এরর সম্পূর্ণভাবে ফিক্স করা হয়েছে\n• ক্লায়েন্ট রেজলভারে ফলব্যাক সিকিউরিটি যুক্ত হয়েছে\n• প্রতিটি কোয়ালিটি (1080p, 720p, 480p, 360p) মোবাইলে অন-ডিভাইস স্বয়ংক্রিয়ভাবে রেজলভ ও ডাউনলোড হবে",
   "forceUpdate": true
 }
