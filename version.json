@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.9.6",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.6.apk",
-  "changelog": "• Facebook ভিডিও ও রিলসের সরাসরি ক্লায়েন্ট-সাইড এক্সট্র্যাক্টর যুক্ত (HTTP 429 সম্পূর্ণ ফিক্সড)\n• ফেসবুক ও সকল ভিডিও/অডিওতে ডুয়াল-থাম্ব ট্রিমার ও ইনস্ট্যান্ট ক্লিপ শেয়ারিং সুবিধা\n• নিখুঁত ক্লিপ ডিউরেশন কাটিং এবং স্টিকি অ্যাকশন বাটন ফিক্স",
+  "versionCode": 53,
+  "versionName": "1.9.7",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.7.apk",
+  "changelog": "• ভিডিও ট্রিম করার সময় ১-২ সেকেন্ড এদিক-ওদিক হওয়ার সমস্যা সম্পূর্ণ সমাধান\n• Media3 Transformer দিয়ে ১০০% ফ্রেম-লেভেল অ্যাকুরেট ভিডিও কাটিং নিশ্চিত\n• মিলিসেকেন্ড ও প্রিভিউ টাইমস্ট্যাম্পের নিখুঁত সিনক্রোনাইজেশন",
   "forceUpdate": true
 }
