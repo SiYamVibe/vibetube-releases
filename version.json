@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.9.11",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.11.apk",
-  "changelog": "• ১০০% পিওর ক্লায়েন্ট-সাইড আর্কিটেকচার (কোনো রিমোট সার্ভার ডিপেনডেন্সি নেই)\n• মোবাইল ও ওয়াইফাই থেকে সরাসরি স্বয়ংসম্পূর্ণ অন-ডিভাইস স্ট্রীম রেজলভ ও ডাউনলোড\n• জিরো সার্ভার এরর গ্যারান্টি",
+  "versionCode": 58,
+  "versionName": "1.9.12",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.12.apk",
+  "changelog": "• স্ন্যাপটিউব-ম্যাচড মাল্টি-রেজোলিউশন (1080p, 720p, 480p, 360p, 240p, 144p) সম্পূর্ণ সক্রিয়\n• ৭২০p-তে স্ন্যাপটিউবের মতো কম্প্যাক্ট ও অপ্টিমাইজড সাইজ (~৪২ MB) নির্বাচন\n• শেয়ার শীট ও ডাউনলোডার ডায়ালগে 480p সহ প্রতিটি রেজোলিউশন পৃথক সাইজে প্রদর্শন",
   "forceUpdate": true
 }
