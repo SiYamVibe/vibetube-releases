@@ -1,7 +1,7 @@
 {
   "versionCode": 59,
   "versionName": "1.9.13",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.13.apk",
+  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.13/vibetube-v1.9.13.apk",
   "changelog": "• হুবহু Snaptube-এর মতো আল্ট্রা-মিনিমাল ফরম্যাট সিলেকশন UI (কোনো অতিরিক্ত কার্ড বা ফ্রেম ছাড়া প্রিমিয়াম ডার্ক লিস্ট)\n• সম্পূর্ণ রেজোলিউশন ক্যাটালগ: 4K 60FPS, 2K 60FPS, 1080p, 720p, 480p, 360p, 240p, 144p এবং Classic MP3 (320K)\n• প্রতিটি ফরম্যাটের প্রকৃত ফাইল সাইজ ও Snaptube স্টাইল ব্যাজ প্রদর্শন\n• Snaptube গোল্ডেন রাউন্ডেড ডাউনলোড বাটন ও ওয়ান-ট্যাপ স্ট্রিমিং",
   "forceUpdate": true
 }
