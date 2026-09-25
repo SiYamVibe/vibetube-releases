@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.9.5",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.5.apk",
-  "changelog": "• প্লেব্যাক চলাকালীন অতিরিক্ত 'Playing media' স্ট্যাটাস নোটিফিকেশন রিমুভ করা হয়েছে\n• মিডিয়া পজ (Pause) করা অবস্থায় নোটিফিকেশনটি সোয়াইপ (Swipe) করে ডিসমিস করার সুবিধা যুক্ত করা হয়েছে\n• ক্লিন ও মিনিমাল একক মিডিয়া কন্ট্রোল নোটিফিকেশন",
-  "forceUpdate": false
+  "versionCode": 52,
+  "versionName": "1.9.6",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.6.apk",
+  "changelog": "• Facebook ভিডিও ও রিলসের সরাসরি ক্লায়েন্ট-সাইড এক্সট্র্যাক্টর যুক্ত (HTTP 429 সম্পূর্ণ ফিক্সড)\n• ফেসবুক ও সকল ভিডিও/অডিওতে ডুয়াল-থাম্ব ট্রিমার ও ইনস্ট্যান্ট ক্লিপ শেয়ারিং সুবিধা\n• নিখুঁত ক্লিপ ডিউরেশন কাটিং এবং স্টিকি অ্যাকশন বাটন ফিক্স",
+  "forceUpdate": true
 }
