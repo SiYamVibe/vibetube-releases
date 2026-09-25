@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.9.8",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.8.apk",
-  "changelog": "• ক্লিপ ডাউনলোডের সময় নোটিফিকেশন ও সাইজ রিপোর্টিং স্বচ্ছ ও সঠিক করা হয়েছে\n• স্ট্রিমিং বাফারিং এবং ক্লিপ এক্সট্রাকশন আলাদা স্পষ্টভাবে নোটিফিকেশনে প্রদর্শন\n• সেভ হওয়া ক্লিপের সঠিক ফাইল সাইজ ও টাইম রেঞ্জ প্রদর্শন",
+  "versionCode": 55,
+  "versionName": "1.9.9",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.9.apk",
+  "changelog": "• ইউটিউব এবং মাল্টি-প্ল্যাটফর্ম ভিডিওর প্রতিটি রেজোলিউশনে (1080p, 720p, 480p, 360p) সঠিক সাইজ ও স্ট্রিম প্রদর্শন ফিক্স\n• একই সাইজ ও একই রেজোলিউশন ডুপ্লিকেট ডাউনলোড হওয়ার সমস্যা সমাধান\n• স্ন্যাপটিউব-গ্রেড পৃথক অ্যাডাপটিভ স্ট্রিম ও নিখুঁত মার্জিং",
   "forceUpdate": true
 }
