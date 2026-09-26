@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "1.9.14",
-  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.14/vibetube-v1.9.14.apk",
-  "changelog": "• MediaMuxer অডিও ট্রান্সকোডিং ও PTS টাইমস্ট্যাম্প ফিক্স (অডিও করাপশন ও সিঙ্ক সমস্যা সমাধান)\n• MP4 কন্টেইনার মার্জিংয়ে 64-bit co64 ও stco ইনডেক্স সেফটি গার্ড\n• ডাউনলোড ইঞ্জিনের খালি ফরম্যাট হ্যান্ডলিং ও রেজলভার ফলব্যাক সুরক্ষা\n• মিডিয়া প্লেয়ারে নোটিফিকেশন স্প্যাম গার্ড ও মেমোরি পারফরম্যান্স অপটিমাইজেশন",
+  "versionCode": 61,
+  "versionName": "1.9.15",
+  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.15/vibetube-v1.9.15.apk",
+  "changelog": "• রিচ ও মিনিমালিস্ট ডাউনলোড উইন্ডো (১-স্ক্রিনে বেস্ট ভিডিও ও অডিও কার্ড)\n• মসৃণ ইনলাইন 'More formats' এক্সপ্যানশন এবং সম্পূর্ণ রেজোলিউশন ক্যাটালগ\n• শেয়ারিং ও লোডিং স্টেট বাগ ফিক্স এবং ইউনিফাইড আর্কিটেকচার\n• অ্যান্ড্রয়েড নেভিগেশন বার ইনসেট ও ডিসপ্লে কাট-অফ সমাধান",
   "forceUpdate": true
 }
