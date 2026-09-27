@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "1.9.19",
-  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.19/vibetube-v1.9.19.apk",
-  "changelog": "• রিয়েল-টাইম ভিজ্যুয়াল ট্রিম ও লাইভ ফ্রেম প্রিভিউ (কোনো ল্যাগ বা অতিরিক্ত লোড ছাড়া)\n• ভিডিও চলাকালীন সরাসরি বর্তমান পজিশন থেকে অটো-ট্রিম সিলেকশন\n• ট্রিম রেঞ্জ লুপ প্লেব্যাক ও এক ক্লিকে কাট ক্লিপ এক্সপোর্ট",
+  "versionCode": 66,
+  "versionName": "1.9.20",
+  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.20/vibetube-v1.9.20.apk",
+  "changelog": "• স্থিতিশীল প্রিভিউ ও ডাউনলোড অপ্টিমাইজেশন (স্টেবল রিস্টোরেশন)\n• মসৃণ পারফরম্যান্স ও মেমরি ক্লিনআপ",
   "forceUpdate": true
 }
