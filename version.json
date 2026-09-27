@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.9.22",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.22.apk",
-  "changelog": "• ইন-অ্যাপ ব্রাউজার স্নাইফার ফিক্স (সোশ্যাল ও ডিরেক্ট স্ট্রিম সাপোর্ট)\n• WhatsApp স্ট্যাটাস সেভার পারমিশন ও আধুনিক পাথ ফিক্স\n• রিয়েল-টাইম অডিও সাউন্ড FX ও 200% Bass Boost কানেকশন\n• প্রাইভেট ভল্টে ডিরেক্ট ফাইল লক সুবিধা",
+  "versionCode": 69,
+  "versionName": "1.9.23",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.23.apk",
+  "changelog": "• ভল্ট সিকিউরিটি আপগ্রেড: ৪-ডিজিটের সিক্রেট পিন ও কনফার্মেশন সেটআপ\n• নেটিভ ফিঙ্গারপ্রিন্ট / বায়োমেট্রিক আনলক ও ভাইব্রেশন ফিডব্যাক\n• ভুল পিন প্রোটেকশন ও পিন চেঞ্জ করার সুবিধা\n• প্রাইভেট ভল্ট ফাইল প্রিভিউ ও রিস্টোর",
   "forceUpdate": true
 }
