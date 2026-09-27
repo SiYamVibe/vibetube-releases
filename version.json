@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.9.23",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.23.apk",
-  "changelog": "• ভল্ট সিকিউরিটি আপগ্রেড: ৪-ডিজিটের সিক্রেট পিন ও কনফার্মেশন সেটআপ\n• নেটিভ ফিঙ্গারপ্রিন্ট / বায়োমেট্রিক আনলক ও ভাইব্রেশন ফিডব্যাক\n• ভুল পিন প্রোটেকশন ও পিন চেঞ্জ করার সুবিধা\n• প্রাইভেট ভল্ট ফাইল প্রিভিউ ও রিস্টোর",
+  "versionCode": 70,
+  "versionName": "1.9.24",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.24.apk",
+  "changelog": "• ভল্ট বায়োমেট্রিক ও ফিঙ্গারপ্রিন্ট পারমিশন ফিক্স\n• অফিশিয়াল ফিঙ্গারপ্রিন্ট সেন্সর ও ৪-ডিজিট পিন লক\n• মসৃণ পারফরম্যান্স ও প্রিমিয়াম ডার্ক থিম",
   "forceUpdate": true
 }
