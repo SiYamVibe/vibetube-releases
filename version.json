@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.9.25",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.25.apk",
-  "changelog": "• ভল্টে সরাসরি ফোন থেকে যেকোনো ফটো/ভিডিও লক করার ফাইল পিকার\n• ডিভাইস মিডিয়া ও ডাউনলোড থেকে এক ক্লিকে ভল্টে মুভ করার সুবিধা\n• হাই-স্পিড অফলাইন মিডিয়া প্রিভিউ ও ফুলস্ক্রিন ইমেজ ভিউয়ার",
+  "versionCode": 72,
+  "versionName": "1.9.26",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.26.apk",
+  "changelog": "• সেটিংসে সিকিউর ভল্ট অন/অফ ও ৪-ডিজিট পিন তৈরি/পরিবর্তন\n• গ্যালারি বা অন্য অ্যাপ থেকে সরাসরি 'Save to Vault' শেয়ার ইন্টেন্ট\n• ভল্টের ভেতরেই সরাসরি ভিডিও, অডিও ও ফটো ফুলস্ক্রিন প্লেব্যাক",
   "forceUpdate": true
 }
