@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.9.27",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.27.apk",
-  "changelog": "• সিকিউর ভল্ট সিস্টেম সম্পূর্ণ ফিক্স: গ্যালারি ও ডাউনলোডে ১০০% সফল রিস্টোর\n• ভিডিও, ফটো ও অডিওর নিখুঁত ক্যাটাগরি ও ফুলস্ক্রিন প্লেব্যাক\n• বায়োমেট্রিক ও পিন অথেনটিকেশন আরও স্মুথ ও দ্রুততর",
+  "versionCode": 74,
+  "versionName": "1.9.28",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.28.apk",
+  "changelog": "• ভল্ট পারমিশন ফিক্স: গ্যালারি থেকে ফটো ও ভিডিও লক করলে মূল ফাইল সরাসরি ডিলিট ও গ্যালারি থেকে অদৃশ্য হবে\n• All Files Access ইন্টিগ্রেশন ও রিয়েল পাথ মিডিয়া স্ক্যানিং\n• সিকিউর পিন ও বায়োমেট্রিক আনলক পারফরম্যান্স আপডেট",
   "forceUpdate": true
 }
