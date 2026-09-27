@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.9.21",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.21.apk",
-  "changelog": "• Snaptube-Style Web Browser ও ৩-লেয়ার মিডিয়া স্নাইফার\n• WhatsApp স্ট্যাটাস সেভার (১-ক্লিক গ্যালারি সেভ)\n• অফলাইন অডিও ল্যাব (Slowed+Reverb, Nightcore, 200% Bass Boost EQ)\n• বায়োমেট্রিক প্রাইভেট ভল্ট ও এনক্রিপশন\n• অটো-ক্যাটাগরি স্মার্ট ফোল্ডার",
+  "versionCode": 68,
+  "versionName": "1.9.22",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.22.apk",
+  "changelog": "• ইন-অ্যাপ ব্রাউজার স্নাইফার ফিক্স (সোশ্যাল ও ডিরেক্ট স্ট্রিম সাপোর্ট)\n• WhatsApp স্ট্যাটাস সেভার পারমিশন ও আধুনিক পাথ ফিক্স\n• রিয়েল-টাইম অডিও সাউন্ড FX ও 200% Bass Boost কানেকশন\n• প্রাইভেট ভল্টে ডিরেক্ট ফাইল লক সুবিধা",
   "forceUpdate": true
 }
