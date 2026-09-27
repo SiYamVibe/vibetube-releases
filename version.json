@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "1.9.17",
-  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.17/vibetube-v1.9.17.apk",
+  "versionCode": 64,
+  "versionName": "1.9.18",
+  "apkUrl": "https://github.com/SiYamVibe/vibetube-releases/releases/download/v1.9.18/vibetube-v1.9.18.apk",
   "changelog": "• অডিও ক্লিপ ও ট্রিমড অডিও প্লেব্যাক ফিক্স (বাইরের মিউজিক প্লেয়ারে অডিও না চলার বাগ সমাধান)\n• অ্যান্ড্রয়েড মিডিয়াস্টোর IS_PENDING ও মিডিয়াস্ক্যানার স্বয়ংক্রিয় ইনডেক্সিং\n• স্ট্যান্ডার্ড M4A/AAC কন্টেইনার এনফোর্সমেন্ট ও অডিও প্রগ্রেস ট্র্যাকিং",
   "forceUpdate": true
 }
