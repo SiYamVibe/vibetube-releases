@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "1.9.18",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-v1.9.18.apk",
-  "changelog": "• রোলব্যাক: স্টেবল v1.9.18 ভার্সনে রিস্টোর করা হয়েছে\n• আগের সব সমস্যা ও অতিরিক্ত ফিচার রিমুভ করা হয়েছে",
+  "versionCode": 75,
+  "versionName": "1.9.30",
+  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
+  "changelog": "• সুপার অপ্টিমাইজড ও আল্ট্রা-লাইটওয়েট রিলিজ (মাত্র ২.৮ এমবি)\n• ইউটিউব ও অন্যান্য প্ল্যাটফর্মের ১০০% নির্ভরযোগ্য ডাউনলোড ফিক্স\n• কোনো ল্যাগ বা ফ্রেম ড্রপ ছাড়া দ্রুততম ডাউনলোড ও স্মুথ প্লেব্যাক",
   "forceUpdate": true
 }
