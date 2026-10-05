@@ -1,7 +1,7 @@
 {
-    "versionCode": 79,
-    "versionName": "1.9.34",
+    "versionCode": 80,
+    "versionName": "1.9.35",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Added support for downloading private/restricted videos requiring login (Facebook/Instagram).\n- Smart BottomSheet login system.",
+    "changelog": "- HOTFIX: Fixed 0s video download issue caused by image sniffing.\n- Improved private video login flow.",
     "forceUpdate": true
 }
