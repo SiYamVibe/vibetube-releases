@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.9.33",
-  "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-  "changelog": "• আল্ট্রা-লাইটওয়েট পারফরম্যান্স ফিক্স সম্পন্ন\n• অকারণে অ্যাপের সাইজ (Cache) বড় হয়ে যাওয়ার সমস্যাটি ফিক্স করা হয়েছে\n• ভিডিও শেয়ার বা ডাউনলোড করার সময় অটোমেটিক ক্যাশ ক্লিয়ার মেকানিজম যুক্ত করা হয়েছে",
-  "forceUpdate": true
+    "versionCode": 79,
+    "versionName": "1.9.34",
+    "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
+    "changelog": "- Added support for downloading private/restricted videos requiring login (Facebook/Instagram).\n- Smart BottomSheet login system.",
+    "forceUpdate": true
 }
