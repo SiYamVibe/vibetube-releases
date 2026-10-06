@@ -1,7 +1,7 @@
 {
-    "versionCode": 80,
-    "versionName": "1.9.35",
+    "versionCode": 81,
+    "versionName": "1.9.36",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- HOTFIX: Fixed 0s video download issue caused by image sniffing.\n- Improved private video login flow.",
+    "changelog": "- HOTFIX: Fixed issue where Instagram private videos showed resolution error instead of login popup.",
     "forceUpdate": true
 }
