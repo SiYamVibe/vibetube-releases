@@ -1,7 +1,7 @@
 {
-    "versionCode": 82,
-    "versionName": "1.9.37",
-    "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Added dedicated Platform Logins in Settings for Instagram & Facebook.\n- Fixed Login BottomSheet auto-dismiss bug.\n- Seamless authenticated downloads for private reels & videos.",
-    "forceUpdate": true
+    "apkUrl":  "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
+    "changelog":  "VibeTube Turbo is up to date.",
+    "versionCode":  81,
+    "versionName":  "1.9.36",
+    "forceUpdate":  false
 }
