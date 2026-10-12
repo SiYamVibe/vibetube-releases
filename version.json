@@ -1,7 +1,7 @@
 {
-    "versionCode": 84,
-    "versionName": "1.9.39",
+    "versionCode": 85,
+    "versionName": "1.9.40",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Fixed Browser bottom tab click action.\n- Added full Snaptube-style in-app Browser with fast shortcuts.",
+    "changelog": "- Complete Snaptube UI/UX match: full-width inline yellow Download bar under videos.\n- Headphones audio button and video feed direct download badges.\n- Removed obstructive floating button and hidden duplicate top bar in Browser.",
     "forceUpdate": true
 }
