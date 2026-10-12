@@ -1,7 +1,7 @@
 {
-    "versionCode": 87,
-    "versionName": "1.9.42",
+    "versionCode": 88,
+    "versionName": "1.9.43",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Fixed video Share button click detection with Web Share API polyfill and capture interception.\n- Resolved dialog layer order so Download Sheet renders smoothly on top.\n- Added floating Snaptube download action button on all video pages.",
+    "changelog": "- Strict video playback detection: Download button is hidden on home feeds, search results, and browse tabs.\n- Universal video playback detection: Download button only appears when actively playing or watching videos on YouTube or ANY website worldwide.\n- Fully synced with native Share click interception and high-speed multi-threaded engine.",
     "forceUpdate": true
 }
