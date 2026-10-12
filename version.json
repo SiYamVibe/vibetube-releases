@@ -1,7 +1,7 @@
 {
-    "versionCode": 83,
-    "versionName": "1.9.38",
+    "versionCode": 84,
+    "versionName": "1.9.39",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Added full Snaptube-style in-app Browser with fast shortcuts (YouTube, Insta, FB, TikTok, etc).\n- Automatic media detection with pulsing Floating Download button.\n- Memory leak cleanup and smooth bottom dock navigation.",
+    "changelog": "- Fixed Browser bottom tab click action.\n- Added full Snaptube-style in-app Browser with fast shortcuts.",
     "forceUpdate": true
 }
