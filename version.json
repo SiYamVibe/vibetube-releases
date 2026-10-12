@@ -1,7 +1,7 @@
 {
-    "versionCode": 86,
-    "versionName": "1.9.41",
+    "versionCode": 87,
+    "versionName": "1.9.42",
     "apkUrl": "https://raw.githubusercontent.com/SiYamVibe/vibetube-releases/main/vibetube-release.apk",
-    "changelog": "- Eliminated top status bar space gap and removed obstructing fixed buttons.\n- Cleanest natural UX: tapping Share on any video/site immediately opens VibeTube Download Sheet.",
+    "changelog": "- Fixed video Share button click detection with Web Share API polyfill and capture interception.\n- Resolved dialog layer order so Download Sheet renders smoothly on top.\n- Added floating Snaptube download action button on all video pages.",
     "forceUpdate": true
 }
